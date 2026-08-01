@@ -37,3 +37,7 @@
 ### Prerequisites
 - Node.js and npm
 - MongoDB Atlas or local MongoDB instance
+INSTALLATION
+1. clone the repository
+   git clone https://github.com/unnatigupta153/TEM.git
+cd TEM
