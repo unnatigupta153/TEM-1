@@ -1,9 +1,6 @@
 # 📊 Track Every Moment
 
 **Track Every Moment** is a full-stack productivity tracker that helps users organize tasks, log work sessions, and visualize how they spend their time. The app features a clean, responsive UI, powerful insights, and secure authentication — all designed to improve daily focus and time management.
-
-🔗 **Live Demo:** [https://tem-33ck.vercel.app](https://tem-33ck.vercel.app)
-
 ---
 
 ## ✨ Features
@@ -40,11 +37,3 @@
 ### Prerequisites
 - Node.js and npm
 - MongoDB Atlas or local MongoDB instance
-
-### Installation
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/agrarishabh/TEM.git
-cd TEM
