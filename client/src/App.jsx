@@ -5,7 +5,7 @@ import Home from './pages/Home'
 import Tasks from './pages/Tasks'
 import {Toaster} from 'react-hot-toast'
 import Footer from './components/Footer'
-import Performance from './pages/Performance'
+import Performance from './pages/performance'
 
 const App = () => {
   return (
